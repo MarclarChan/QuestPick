@@ -5,7 +5,7 @@ QuestPick是一个由ChatGPT协助生成的随机提问生成器，可以从一�
 
 ## 安装
 
-1. 下载本项目源代码，解压QuestPick.7z。
+1. 下载本项目源代码，解压缩，然后再解压QuestPick.7z。
 2. 请提前安装Python 3.x。
 3. 请提前安装所需的Python库`tkinter`。可以使用以下命令进行安装：
 
